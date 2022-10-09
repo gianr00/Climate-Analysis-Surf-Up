@@ -5,9 +5,10 @@ Author: Rosie Gianan, gianr00@gmail.com
 Build With: Python, SQLAlchemy ORM queries, Pandas, Matplotlib, Flasks API, Python, and JSON.
 
 ## Goals:
-1.    Perform the climate analysis, data exploration and design of climate app using the data from climate database. 
-2.    Perform an analysis using t-test to determine whether the difference in means, if any, is statistically significant. 
-3.    Conduct an analysis using the historical data in the dataset, to find out what the temperature has previously been for a timeframe. 
+1.  Perform the climate analysis, data exploration and design of climate app using the data from climate database. 
+2.  Find out if there’s a meaningful difference between the temperatures in, for example, June and December.
+3.  Conduct an analysis using the historical data in the dataset, to find out what the temperature has previously been for a timeframe. 
+
 
 ## Solutions:
 1.    Climate analysis and data exploration
@@ -15,13 +16,11 @@ Build With: Python, SQLAlchemy ORM queries, Pandas, Matplotlib, Flasks API, Pyth
 
 Precipitation analysis chart:
 
-
 <img src="images/precipitation_analysis.png" width="400"> 
 
 -   Station Analysis - design the query to calculate the lowest, highest, and average temperatures for the most active stations and for last 12 months of data. Using the most active station, design a query to retrieve the last 12 months of tobs (temperature observation data). Plot the result in a histogram chart.
 
 Station analysis chart:
-
 
 <img src="images/station_analysis.png" width="400">
 
@@ -43,4 +42,18 @@ Station analysis chart:
 
 -    Dynamic route using  the start and end date - Route accepts the start and end dates as parameters from the URL. Returns the min, max, and average temperatures calculated from the given start date to the given end date
  <img src="images/app_route_beg_end_date.png" width="400">
+
+3.  Perform an analysis to find out if there’s a meaningful difference between the temperatures in, for example, June and December. Using t-test to determine whether the difference in means, if any, is statistically significant. 
+
+<img src="images/t-test_analysis.png" width="400"> 
+
+4.  Conduct an analysis using the previous year data in the dataset, to find out what the temperature has previously been for a timeframe. Find the average temperature and daily temperature. Plot the results.
+
+Average Temperature: 
+<img src="images/average_temperature.png" width="400"> 
+
+Daily Temperature:
+<img src="images/daily_temperature.png" width="400"> 
+
+
 
