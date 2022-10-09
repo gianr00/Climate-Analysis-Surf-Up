@@ -45,12 +45,12 @@ Station analysis chart:
 
 3.  Perform an analysis to find out if there’s a meaningful difference between the temperatures in, for example, June and December. Using t-test to determine whether the difference in means, if any, is statistically significant. 
 
-<img src="images/t-test_analysis.png" width="700"> 
+<img src="images/t-test_analysis.png" width="900"> 
 
 4.  Conduct an analysis using the previous year data in the dataset, to find out what the temperature has previously been for a timeframe. Find the average temperature and daily temperature. Plot the results.
 
 Average Temperature: 
-<img src="images/average_temperature.png" width=200"> 
+<img src="images/average_temperature.png" width="200"> 
 
 Daily Temperature:
 <img src="images/daily_temperature.png" width="400"> 
