@@ -14,16 +14,20 @@ Build With: Python, SQLAlchemy ORM queries, Pandas, Matplotlib, Flasks API, Pyth
 -   Precipitation analysis  - design the query to analyze the precipitation data using the date and prcp for the previous 12 months of precipitation data. Save the result in Pandas DataFrame and plot the result in a bar chart.
 
 Precipitation analysis chart:
+
+
 <img src="images/precipitation_analysis.png" width="400"> 
 
 -   Station Analysis - design the query to calculate the lowest, highest, and average temperatures for the most active stations and for last 12 months of data. Using the most active station, design a query to retrieve the last 12 months of tobs (temperature observation data). Plot the result in a histogram chart.
 
 Station analysis chart:
+
+
 <img src="images/station_analysis.png" width="400">
 
 2.    Climate app  – Design a Flask API to display the climate data using the following route:
 
-<img src="images/app_all_routes" width="400"> 
+<img src="images/app_all_routes.png" width="400"> 
 
 -    Precipitation route - Returns the jsonified precipitation data for the last year in the database with the date as the key and the value as the precipitation
 <img src="images/app_route_precipitation.png" width="400"> 
