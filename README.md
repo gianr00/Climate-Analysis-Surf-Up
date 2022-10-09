@@ -50,9 +50,11 @@ Station analysis chart:
 4.  Conduct an analysis using the previous year data in the dataset, to find out what the temperature has previously been for a timeframe. Find the average temperature and daily temperature. Plot the results.
 
 Average Temperature: 
+
 <img src="images/average_temperature.png" width="200"> 
 
 Daily Temperature:
+
 <img src="images/daily_temperature.png" width="400"> 
 
 
