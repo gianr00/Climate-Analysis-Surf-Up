@@ -16,6 +16,6 @@ Precipitation analysis chart:
 <img src="images/precipitation_analysis.png" width="700>"> 
 
 -    Station Analysis - design the query to calculate the lowest, highest, and average temperatures for the most active stations and for last 12 months of data. Using the most active station, design a query to retrieve the last 12 months of tobs (temperature observation data). Plot the result in a histogram chart.
-### Station analysis chart:
+Station analysis chart:
 <img src="images/station_analysis.png" width="700>
 
