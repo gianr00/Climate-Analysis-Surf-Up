@@ -23,7 +23,7 @@ Station analysis chart:
 
 2.    Climate app  – Design a Flask API to display the climate data using the following route:
 
-<img src="images/app_all_routes" width="400>"> 
+<img src="images/app_all_routes" width="400"> 
 
 -    Precipitation route - Returns the jsonified precipitation data for the last year in the database with the date as the key and the value as the precipitation
 <img src="images/app_route_precipitation.png" width="400"> 
