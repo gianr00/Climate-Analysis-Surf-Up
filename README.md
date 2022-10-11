@@ -2,7 +2,7 @@
 
 Author: Rosie Gianan, gianr00@gmail.com
 
-Build with: Python, SQLAlchemy ORM queries, Pandas, Matplotlib, Flasks API, Python, csv files, Jupyter notebook
+Build with: Python, SQLAlchemy ORM queries, Pandas, Matplotlib, Flasks API, Python, csv files, sqlite, Jupyter notebook
 
 ## Objective:
 1.  Perform the climate analysis, data exploration and design of climate app using the data from climate database. 
