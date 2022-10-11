@@ -2,15 +2,14 @@
 
 Author: Rosie Gianan, gianr00@gmail.com
 
-Build With: Python, SQLAlchemy ORM queries, Pandas, Matplotlib, Flasks API, Python, and JSON.
+Build with: Python, SQLAlchemy ORM queries, Pandas, Matplotlib, Flasks API, Python, csv files, Jupyter notebook
 
-## Goals:
+## Objective:
 1.  Perform the climate analysis, data exploration and design of climate app using the data from climate database. 
 2.  Find out if there’s a meaningful difference between the temperatures in, for example, June and December.
 3.  Conduct an analysis using the historical data in the dataset, to find out what the temperature has previously been for a timeframe. 
 
-
-## Solutions:
+## Solution:
 1.    Climate analysis and data exploration
 -   Precipitation analysis  - design the query to analyze the precipitation data using the date and prcp for the previous 12 months of precipitation data. Save the result in Pandas DataFrame and plot the result in a bar chart.
 
